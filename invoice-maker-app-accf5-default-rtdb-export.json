@@ -1,0 +1,1281 @@
+{
+  "Invoices": {
+    "01D123E4": {
+      "Data": [
+        {
+          "itemId": "62DAE227",
+          "name": "Pizza",
+          "price": "36",
+          "totalPrice": "396",
+          "totalQuantity": "11"
+        }
+      ],
+      "Date": "28-Jan-2023",
+      "InvoiceId": "01D123E4"
+    },
+    "01FBDB50": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "01FBDB50"
+    },
+    "03477AC6": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "03477AC6"
+    },
+    "05E8CC3F": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "05E8CC3F"
+    },
+    "0AAB4DCB": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "108",
+          "totalQuantity": "6"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "0AAB4DCB"
+    },
+    "0C802412": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "0C802412"
+    },
+    "0C90B6D2": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "0C90B6D2"
+    },
+    "0D5D0CB2": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "198",
+          "totalQuantity": "11"
+        }
+      ],
+      "Date": "31-Jan-2023",
+      "InvoiceId": "0D5D0CB2"
+    },
+    "175E60F3": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "175E60F3"
+    },
+    "1AFDF025": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "9990",
+          "totalQuantity": "555"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "1AFDF025"
+    },
+    "1BA0BABD": {
+      "Data": [
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "9768",
+          "totalQuantity": "444"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "1BA0BABD"
+    },
+    "1FD414BD": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "1FD414BD"
+    },
+    "2A514911": {
+      "Data": [
+        {
+          "itemId": "80F3CAC5",
+          "name": "afdasf",
+          "price": "212",
+          "totalPrice": "2332",
+          "totalQuantity": "11"
+        }
+      ],
+      "Date": "31-Jan-2023",
+      "InvoiceId": "2A514911"
+    },
+    "2F7854D1": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "270",
+          "totalQuantity": "15"
+        },
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "44",
+          "totalQuantity": "2"
+        },
+        {
+          "itemId": "CDE90DDA",
+          "name": "Bread",
+          "price": "20",
+          "totalPrice": "100",
+          "totalQuantity": "5"
+        }
+      ],
+      "Date": "31-Jan-2023",
+      "InvoiceId": "2F7854D1"
+    },
+    "2FE2CB69": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "5994",
+          "totalQuantity": "333"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "2FE2CB69"
+    },
+    "32D6936B": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "594",
+          "totalQuantity": "33"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "32D6936B"
+    },
+    "3401D18A": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "3401D18A"
+    },
+    "388AE818": {
+      "Data": [
+        {
+          "itemId": "80F3CAC5",
+          "name": "afdasf",
+          "price": "212",
+          "totalPrice": "11660",
+          "totalQuantity": "55"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "388AE818"
+    },
+    "3A86C459": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "3A86C459"
+    },
+    "3CE975DA": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "3CE975DA"
+    },
+    "413C68E8": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "413C68E8"
+    },
+    "41C11217": {
+      "Data": [
+        {
+          "itemId": "AC0C2128",
+          "name": "Noodle",
+          "price": "25",
+          "totalPrice": "100",
+          "totalQuantity": "4"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "41C11217"
+    },
+    "42A1FC9E": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "42A1FC9E"
+    },
+    "50AE0DD2": {
+      "Data": [
+        {
+          "itemId": "62DAE227",
+          "name": "Pizza",
+          "price": "36",
+          "totalPrice": "396",
+          "totalQuantity": "11"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "396",
+          "totalQuantity": "22"
+        }
+      ],
+      "Date": "26-Jan-2023",
+      "InvoiceId": "50AE0DD2"
+    },
+    "56BE804F": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "56BE804F"
+    },
+    "5925F681": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "5925F681"
+    },
+    "5A7DC587": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "5A7DC587"
+    },
+    "5AD31242": {
+      "Data": [
+        {
+          "itemId": "62DAE227",
+          "name": "Pizza",
+          "price": "36",
+          "totalPrice": "828",
+          "totalQuantity": "23"
+        },
+        {
+          "itemId": "BD0565D2",
+          "name": "Water",
+          "price": "8",
+          "totalPrice": "184",
+          "totalQuantity": "23"
+        }
+      ],
+      "Date": "28-Jan-2023",
+      "InvoiceId": "5AD31242"
+    },
+    "5B91CFAE": {
+      "Date": "26-Jan-2023",
+      "InvoiceId": "5B91CFAE"
+    },
+    "5CD2945D": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "5CD2945D"
+    },
+    "5FCF5034": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "5FCF5034"
+    },
+    "609C45DB": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "609C45DB"
+    },
+    "73907B05": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "73907B05"
+    },
+    "7744F4B4": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "7744F4B4"
+    },
+    "7B424F3C": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "61812",
+          "totalQuantity": "3434"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "7B424F3C"
+    },
+    "7D2C14BF": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "7D2C14BF"
+    },
+    "7E44E83A": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "7E44E83A"
+    },
+    "8282B130": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "8282B130"
+    },
+    "8487257F": {
+      "Data": [
+        {
+          "itemId": "62DAE227",
+          "name": "Pizza",
+          "price": "36",
+          "totalPrice": "792",
+          "totalQuantity": "22"
+        },
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "1210",
+          "totalQuantity": "55"
+        }
+      ],
+      "Date": "28-Jan-2023",
+      "InvoiceId": "8487257F"
+    },
+    "85016ABC": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "85016ABC"
+    },
+    "8976F5B7": {
+      "Date": "26-Jan-2023",
+      "InvoiceId": "8976F5B7"
+    },
+    "8B18C55F": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "36",
+          "totalQuantity": "2"
+        },
+        {
+          "itemId": "CDE90DDA",
+          "name": "Bread",
+          "price": "20",
+          "totalPrice": "60",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "8B18C55F"
+    },
+    "8DC42201": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "8DC42201"
+    },
+    "95EF1549": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "95EF1549"
+    },
+    "98C359E5": {
+      "Data": [
+        {
+          "itemId": "F26D0322",
+          "name": "Tea",
+          "price": "5",
+          "totalPrice": "10",
+          "totalQuantity": "2"
+        }
+      ],
+      "Date": "26-Jan-2023",
+      "InvoiceId": "98C359E5"
+    },
+    "98FFB115": {
+      "Date": "29-Jan-2023",
+      "InvoiceId": "98FFB115"
+    },
+    "9C806BF1": {
+      "Data": [
+        {
+          "itemId": "2A059471",
+          "name": "TI light",
+          "price": "7",
+          "totalPrice": "14",
+          "totalQuantity": "2"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "88",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "88",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "CDE90DDA",
+          "name": "Bread",
+          "price": "20",
+          "totalPrice": "20",
+          "totalQuantity": "1"
+        }
+      ],
+      "Date": "28-Feb-2023",
+      "InvoiceId": "9C806BF1"
+    },
+    "9C9D3D5F": {
+      "Data": [
+        {
+          "itemId": "AC0C2128",
+          "name": "Noodle",
+          "price": "25",
+          "totalPrice": "125",
+          "totalQuantity": "5"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "9C9D3D5F"
+    },
+    "9D3E34BB": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "9D3E34BB"
+    },
+    "9D45D288": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "9D45D288"
+    },
+    "A1FAF49D": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "108",
+          "totalQuantity": "6"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "108",
+          "totalQuantity": "6"
+        },
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "66",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "A1FAF49D"
+    },
+    "A2570707": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "A2570707"
+    },
+    "AA23972C": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "216",
+          "totalQuantity": "12"
+        }
+      ],
+      "Date": "29-Jan-2023",
+      "InvoiceId": "AA23972C"
+    },
+    "B68C2C1E": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "270",
+          "totalQuantity": "15"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "216",
+          "totalQuantity": "12"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "18",
+          "totalQuantity": "1"
+        }
+      ],
+      "Date": "29-Jan-2023",
+      "InvoiceId": "B68C2C1E"
+    },
+    "B839AE22": {
+      "Data": [
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "110",
+          "totalQuantity": "5"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "B839AE22"
+    },
+    "B8FCD3D7": {
+      "Data": [
+        {
+          "itemId": "62DAE227",
+          "name": "Pizza",
+          "price": "36",
+          "totalPrice": "79992",
+          "totalQuantity": "2222"
+        }
+      ],
+      "Date": "26-Jan-2023",
+      "InvoiceId": "B8FCD3D7"
+    },
+    "B905181A": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "0",
+          "totalQuantity": "0"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "216",
+          "totalQuantity": "12"
+        }
+      ],
+      "Date": "29-Jan-2023",
+      "InvoiceId": "B905181A"
+    },
+    "BB1397BB": {
+      "Data": [
+        {
+          "itemId": "0617A0C8",
+          "name": "Noodle Soup",
+          "price": "30",
+          "totalPrice": "60",
+          "totalQuantity": "2"
+        },
+        {
+          "itemId": "7648B6D7",
+          "name": "Coffee",
+          "price": "11",
+          "totalPrice": "11",
+          "totalQuantity": "1"
+        },
+        {
+          "itemId": "7648B6D7",
+          "name": "Coffee",
+          "price": "12",
+          "totalPrice": "36",
+          "totalQuantity": "3"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "36",
+          "totalQuantity": "2"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "BB1397BB"
+    },
+    "BE4C10CF": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "BE4C10CF"
+    },
+    "BF256B98": {
+      "Data": [
+        {
+          "itemId": "80F3CAC5",
+          "name": "afdasf",
+          "price": "212",
+          "totalPrice": "636",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "BF256B98"
+    },
+    "C9C1B974": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "C9C1B974"
+    },
+    "D6A6C957": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "D6A6C957"
+    },
+    "D70C5A78": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "D70C5A78"
+    },
+    "D7536C6C": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "D7536C6C"
+    },
+    "D907EBB7": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "D907EBB7"
+    },
+    "DB8EAA36": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "DB8EAA36"
+    },
+    "DE2A3CE8": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "DE2A3CE8"
+    },
+    "DF9FB6B6": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "DF9FB6B6"
+    },
+    "DFBC0B62": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "216",
+          "totalQuantity": "12"
+        }
+      ],
+      "Date": "29-Jan-2023",
+      "InvoiceId": "DFBC0B62"
+    },
+    "E0F34F78": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "E0F34F78"
+    },
+    "F41909EC": {
+      "Data": [
+        {
+          "itemId": "8A867812",
+          "name": "shaksuka",
+          "price": "22",
+          "totalPrice": "44",
+          "totalQuantity": "2"
+        },
+        {
+          "itemId": "CDE90DDA",
+          "name": "Bread",
+          "price": "20",
+          "totalPrice": "80",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "F26D0322",
+          "name": "Tea",
+          "price": "5",
+          "totalPrice": "15",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "F41909EC"
+    },
+    "F676E44D": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        },
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "792",
+          "totalQuantity": "44"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "F676E44D"
+    },
+    "F7F9ADE0": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "54",
+          "totalQuantity": "3"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "F7F9ADE0"
+    },
+    "FFA60864": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "5994",
+          "totalQuantity": "333"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "FFA60864"
+    },
+    "FFCEB391": {
+      "Data": [
+        {
+          "itemId": "7D50A5E4",
+          "name": "Soup",
+          "price": "18",
+          "totalPrice": "72",
+          "totalQuantity": "4"
+        }
+      ],
+      "Date": "26-Feb-2023",
+      "InvoiceId": "FFCEB391"
+    }
+  },
+  "Products": {
+    "2A059471": {
+      "ItemId": "2A059471",
+      "Name": "TI light",
+      "Price": "7"
+    },
+    "66421BAB": {
+      "ItemId": "66421BAB",
+      "Name": "light mayo",
+      "Price": "3"
+    },
+    "7D50A5E4": {
+      "ItemId": "7D50A5E4",
+      "Name": "Soup",
+      "Price": "18"
+    },
+    "8A867812": {
+      "ItemId": "8A867812",
+      "Name": "shaksuka",
+      "Price": "22"
+    },
+    "AC0C2128": {
+      "ItemId": "AC0C2128",
+      "Name": "Noodle",
+      "Price": "25"
+    },
+    "BD0565D2": {
+      "ItemId": "BD0565D2",
+      "Name": "Water",
+      "Price": "8"
+    },
+    "CDE90DDA": {
+      "ItemId": "CDE90DDA",
+      "Name": "Bread",
+      "Price": "20"
+    },
+    "F26D0322": {
+      "ItemId": "F26D0322",
+      "Name": "Tea",
+      "Price": "5"
+    }
+  }
+}
