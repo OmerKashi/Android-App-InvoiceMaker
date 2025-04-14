@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "835565377773",
+    "project_id": "invoice-maker-accf5",
+    "storage_bucket": "invoice-maker-accf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835565377773:android:c2c89fcbe98b76fd69d4e4",
+        "android_client_info": {
+          "package_name": "com.example.invoicemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835565377773-d0icpvfrqn973cf72iahsdq5vmju9vln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALaPi6gwtGY2RPsRuy5hHvkpSaG7dNHcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835565377773-d0icpvfrqn973cf72iahsdq5vmju9vln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
